@@ -15,15 +15,15 @@ A clean and fully responsive login and sign-up page built using **HTML**, **CSS*
 ## Running locally
 
 ```bash
-git clone https://github.com/blue-crown-dev/responsive-login.git
-cd responsive-login
+git clone https://github.com/blue-crown-dev/login-register.git
+cd login-register
 ```
 
 - Open the `index.html`file in your browser to see.
 
 ## Deployment
 
-The site is deployed live at [this link]()
+The site is deployed live at [this link](https://loginflows.netlify.app/)
 
 ## Authors
 
